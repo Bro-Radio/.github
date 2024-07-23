@@ -1,4 +1,4 @@
-# Bro Radio
+![Bro Radio](https://mmo.aiircdn.com/1256/655deaa36a395.png)
 
 Bro Radio is the Vale's local radio station.
 
